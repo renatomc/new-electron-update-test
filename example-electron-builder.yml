@@ -1,0 +1,4 @@
+appId: "com.example.appId"
+publish:
+  provider: "github"
+  token: "YOUR_TOKEN"
